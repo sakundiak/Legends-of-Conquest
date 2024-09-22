@@ -4,15 +4,27 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public static PlayerController instance;
+
     [SerializeField] int moveSpeed = 1;
     [SerializeField] Rigidbody2D playerRigidBody;
     [SerializeField] Animator playerAnimator;
+
+    public string transitionName;
     
     void Start()
     {
+        if (instance != null && instance != this)
+        {
+            Destroy(this.gameObject);
+        }
+        else
+        {
+            instance = this;
+        }
         
+        DontDestroyOnLoad(gameObject);
     }
-
 
     void Update()
     {
