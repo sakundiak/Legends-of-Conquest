@@ -1,0 +1,954 @@
+fileFormatVersion: 2
+guid: c999a622c43f36e4b9f5499b41707ec8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1569333866800524535
+    second: RA_Village_Animation03_0
+  - first:
+      213: 2591987356956121047
+    second: RA_Village_Animation03_1
+  - first:
+      213: 8438773573678762051
+    second: RA_Village_Animation03_2
+  - first:
+      213: -2053450528691516978
+    second: RA_Village_Animation03_3
+  - first:
+      213: 6052818292827164755
+    second: RA_Village_Animation03_4
+  - first:
+      213: 6213439670563728774
+    second: RA_Village_Animation03_5
+  - first:
+      213: 6123749022725202597
+    second: RA_Village_Animation03_6
+  - first:
+      213: -5138431068414966917
+    second: RA_Village_Animation03_7
+  - first:
+      213: -7262265304131950343
+    second: RA_Village_Animation03_8
+  - first:
+      213: 5232379576580285574
+    second: RA_Village_Animation03_9
+  - first:
+      213: -7956113744076223611
+    second: RA_Village_Animation03_10
+  - first:
+      213: -3779817331189936320
+    second: RA_Village_Animation03_11
+  - first:
+      213: -761803373883857003
+    second: RA_Village_Animation03_12
+  - first:
+      213: -7861347088117130984
+    second: RA_Village_Animation03_13
+  - first:
+      213: 6653507079347597200
+    second: RA_Village_Animation03_14
+  - first:
+      213: 4950430029328233395
+    second: RA_Village_Animation03_15
+  - first:
+      213: -3772785837373497860
+    second: RA_Village_Animation03_16
+  - first:
+      213: 468138781256752688
+    second: RA_Village_Animation03_17
+  - first:
+      213: 8942007243710077007
+    second: RA_Village_Animation03_18
+  - first:
+      213: -1937494169563149881
+    second: RA_Village_Animation03_19
+  - first:
+      213: -7593003335446189502
+    second: RA_Village_Animation03_20
+  - first:
+      213: -6075807494183882143
+    second: RA_Village_Animation03_21
+  - first:
+      213: -891108043032239144
+    second: RA_Village_Animation03_22
+  - first:
+      213: 1274841674318777276
+    second: RA_Village_Animation03_23
+  - first:
+      213: 2420119374393148453
+    second: RA_Village_Animation03_24
+  - first:
+      213: 3310635760157441167
+    second: RA_Village_Animation03_25
+  - first:
+      213: 405529776466850332
+    second: RA_Village_Animation03_26
+  - first:
+      213: 8793033503530235070
+    second: RA_Village_Animation03_27
+  - first:
+      213: 2442353182927733834
+    second: RA_Village_Animation03_28
+  - first:
+      213: 6075656923874271690
+    second: RA_Village_Animation03_29
+  - first:
+      213: -6615385033097021949
+    second: RA_Village_Animation03_30
+  - first:
+      213: -3806849775821012816
+    second: RA_Village_Animation03_31
+  - first:
+      213: 57160682591656775
+    second: RA_Village_Animation03_32
+  - first:
+      213: -3065532263969944323
+    second: RA_Village_Animation03_33
+  - first:
+      213: 6596026084690917176
+    second: RA_Village_Animation03_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RA_Village_Animation03_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 65
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fca2a056d467c510800000000000000
+      internalID: 1569333866800524535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 65
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d75ca9a4c698f320800000000000000
+      internalID: 2591987356956121047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 65
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348831fcadb8c1570800000000000000
+      internalID: 8438773573678762051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 65
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec90181bf9da083e0800000000000000
+      internalID: -2053450528691516978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 34
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35013f90b2eeff350800000000000000
+      internalID: 6052818292827164755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 65
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d654dc5729a3650800000000000000
+      internalID: 6213439670563728774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 65
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a26e298a4debf450800000000000000
+      internalID: 6123749022725202597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 65
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b738b48fa20a0b8b0800000000000000
+      internalID: -5138431068414966917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 65
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8229ade20473b90800000000000000
+      internalID: -7262265304131950343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 34
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684a318a0852d9840800000000000000
+      internalID: 5232379576580285574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 65
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bcbbbf3b4369190800000000000000
+      internalID: -7956113744076223611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 65
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f0f82e9246b8bc0800000000000000
+      internalID: -3779817331189936320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 65
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59765fe1ed78d65f0800000000000000
+      internalID: -761803373883857003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 65
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8191abc7972e6e290800000000000000
+      internalID: -7861347088117130984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 31
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f6f07df61065c50800000000000000
+      internalID: 6653507079347597200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3398712e573b440800000000000000
+      internalID: 4950430029328233395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd5abd154f54abc0800000000000000
+      internalID: -3772785837373497860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e9462cdb92f7600800000000000000
+      internalID: 468138781256752688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f481f4c1634681c70800000000000000
+      internalID: 8942007243710077007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c94ccc6153ac15e0800000000000000
+      internalID: -1937494169563149881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aaf5422bb30a690800000000000000
+      internalID: -7593003335446189502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162738966456eaba0800000000000000
+      internalID: -6075807494183882143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_22
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3e196c4f522a3f0800000000000000
+      internalID: -891108043032239144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_23
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb82a69fb521b110800000000000000
+      internalID: 1274841674318777276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_24
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5248eb8afbdf59120800000000000000
+      internalID: 2420119374393148453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_25
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cb3e0feadb1fd20800000000000000
+      internalID: 3310635760157441167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_26
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c127620ee2bb0a500800000000000000
+      internalID: 405529776466850332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4370c4261270a70800000000000000
+      internalID: 8793033503530235070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44c37c974bf4e120800000000000000
+      internalID: 2442353182927733834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac12ba438c1115450800000000000000
+      internalID: 6075656923874271690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306f0d9bc5e6134a0800000000000000
+      internalID: -6615385033097021949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0c9e66c4a5b2bc0800000000000000
+      internalID: -3806849775821012816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_32
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b9ef486531bc000800000000000000
+      internalID: 57160682591656775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_33
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc8296d5aa0575d0800000000000000
+      internalID: -3065532263969944323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Village_Animation03_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837763bd6cac98b50800000000000000
+      internalID: 6596026084690917176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1746 @@
+fileFormatVersion: 2
+guid: a01f036d455509743b50384ca065a1aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -57513569234899510
+    second: RA_Temple_Animation01_0
+  - first:
+      213: -7937895004114492778
+    second: RA_Temple_Animation01_1
+  - first:
+      213: -7317207697135026234
+    second: RA_Temple_Animation01_2
+  - first:
+      213: 3085277627990032127
+    second: RA_Temple_Animation01_3
+  - first:
+      213: -8103126377622877212
+    second: RA_Temple_Animation01_4
+  - first:
+      213: -5419392668713025800
+    second: RA_Temple_Animation01_5
+  - first:
+      213: 8709702572266987285
+    second: RA_Temple_Animation01_6
+  - first:
+      213: -3806673025971596346
+    second: RA_Temple_Animation01_7
+  - first:
+      213: 7222493830863615943
+    second: RA_Temple_Animation01_8
+  - first:
+      213: 8576661545000226046
+    second: RA_Temple_Animation01_9
+  - first:
+      213: 650329183946156411
+    second: RA_Temple_Animation01_10
+  - first:
+      213: -6168060984893047891
+    second: RA_Temple_Animation01_11
+  - first:
+      213: 2578050775624487901
+    second: RA_Temple_Animation01_12
+  - first:
+      213: -4110432249264667412
+    second: RA_Temple_Animation01_13
+  - first:
+      213: 4877153077364261090
+    second: RA_Temple_Animation01_14
+  - first:
+      213: -5162416393125408811
+    second: RA_Temple_Animation01_15
+  - first:
+      213: 4962900489008059613
+    second: RA_Temple_Animation01_16
+  - first:
+      213: -9140910111531665755
+    second: RA_Temple_Animation01_17
+  - first:
+      213: 4319893475348892690
+    second: RA_Temple_Animation01_18
+  - first:
+      213: -2419565621800147078
+    second: RA_Temple_Animation01_19
+  - first:
+      213: 5188921299245941840
+    second: RA_Temple_Animation01_20
+  - first:
+      213: -7399304541012427005
+    second: RA_Temple_Animation01_21
+  - first:
+      213: -4680812184810055028
+    second: RA_Temple_Animation01_22
+  - first:
+      213: 4730940693653188936
+    second: RA_Temple_Animation01_23
+  - first:
+      213: -1690192028303059362
+    second: RA_Temple_Animation01_24
+  - first:
+      213: -8104351908917242052
+    second: RA_Temple_Animation01_25
+  - first:
+      213: -3822104319169729908
+    second: RA_Temple_Animation01_26
+  - first:
+      213: -4837620497521744130
+    second: RA_Temple_Animation01_27
+  - first:
+      213: -7404747769534500315
+    second: RA_Temple_Animation01_28
+  - first:
+      213: 3354741439674918535
+    second: RA_Temple_Animation01_29
+  - first:
+      213: -7158869343734728745
+    second: RA_Temple_Animation01_30
+  - first:
+      213: -3139435589600447955
+    second: RA_Temple_Animation01_31
+  - first:
+      213: -1620219006984403654
+    second: RA_Temple_Animation01_32
+  - first:
+      213: -2712793485116252019
+    second: RA_Temple_Animation01_33
+  - first:
+      213: 5705497411207231261
+    second: RA_Temple_Animation01_34
+  - first:
+      213: 727211991274454382
+    second: RA_Temple_Animation01_35
+  - first:
+      213: -6845905498352472835
+    second: RA_Temple_Animation01_36
+  - first:
+      213: 7773821279224160076
+    second: RA_Temple_Animation01_37
+  - first:
+      213: -3733206414136648884
+    second: RA_Temple_Animation01_38
+  - first:
+      213: 3585107060489928247
+    second: RA_Temple_Animation01_39
+  - first:
+      213: 5931236986492536583
+    second: RA_Temple_Animation01_40
+  - first:
+      213: -7981293219246399770
+    second: RA_Temple_Animation01_41
+  - first:
+      213: 2476063100006586156
+    second: RA_Temple_Animation01_42
+  - first:
+      213: 8814205747571381016
+    second: RA_Temple_Animation01_43
+  - first:
+      213: 1976153945019611708
+    second: RA_Temple_Animation01_44
+  - first:
+      213: 3788430349694486560
+    second: RA_Temple_Animation01_45
+  - first:
+      213: 1122853347945258605
+    second: RA_Temple_Animation01_46
+  - first:
+      213: 8440684250981300070
+    second: RA_Temple_Animation01_47
+  - first:
+      213: -8630799095004915218
+    second: RA_Temple_Animation01_48
+  - first:
+      213: -5497457296197331822
+    second: RA_Temple_Animation01_49
+  - first:
+      213: -5821447564540365289
+    second: RA_Temple_Animation01_50
+  - first:
+      213: 5622763963674713745
+    second: RA_Temple_Animation01_51
+  - first:
+      213: -6949197146949557032
+    second: RA_Temple_Animation01_52
+  - first:
+      213: 1884031086278859857
+    second: RA_Temple_Animation01_53
+  - first:
+      213: 308278223344087044
+    second: RA_Temple_Animation01_54
+  - first:
+      213: -2663536974734162004
+    second: RA_Temple_Animation01_55
+  - first:
+      213: -1443698429109910908
+    second: RA_Temple_Animation01_56
+  - first:
+      213: -9106115000435523400
+    second: RA_Temple_Animation01_57
+  - first:
+      213: 7919618544394768923
+    second: RA_Temple_Animation01_58
+  - first:
+      213: -3772525123894737127
+    second: RA_Temple_Animation01_59
+  - first:
+      213: 5016202151171408414
+    second: RA_Temple_Animation01_60
+  - first:
+      213: 7018972556837349232
+    second: RA_Temple_Animation01_61
+  - first:
+      213: 286444201596963773
+    second: RA_Temple_Animation01_62
+  - first:
+      213: -2329043787183310727
+    second: RA_Temple_Animation01_63
+  - first:
+      213: -7609345486031810301
+    second: RA_Temple_Animation01_64
+  - first:
+      213: 8462316594027168339
+    second: RA_Temple_Animation01_65
+  - first:
+      213: -3992128869212520000
+    second: RA_Temple_Animation01_66
+  - first:
+      213: 828205239786620470
+    second: RA_Temple_Animation01_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 50
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd2df7a6bba33ff0800000000000000
+      internalID: -57513569234899510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 50
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692686fec8ee6d190800000000000000
+      internalID: -7937895004114492778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 50
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf33802e5e047a90800000000000000
+      internalID: -7317207697135026234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 50
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe3ec9f7ab11da20800000000000000
+      internalID: 3085277627990032127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebc0b3ed79eb8f80800000000000000
+      internalID: -8103126377622877212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 50
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fef00bb4137ac4b0800000000000000
+      internalID: -5419392668713025800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f974fe7541fd870800000000000000
+      internalID: 8709702572266987285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 50
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3d6ee2d0bfb2bc0800000000000000
+      internalID: -3806673025971596346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 50
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7731d6fd37b3460800000000000000
+      internalID: 7222493830863615943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efccd7ceb3c660770800000000000000
+      internalID: 8576661545000226046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 48
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b792e2c72fe660900800000000000000
+      internalID: 650329183946156411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 48
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabf08ac635a66aa0800000000000000
+      internalID: -6168060984893047891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 48
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd39406758317c320800000000000000
+      internalID: 2578050775624487901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 48
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce40545b5afc4f6c0800000000000000
+      internalID: -4110432249264667412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0008332e02fa340800000000000000
+      internalID: 4877153077364261090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 48
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df4b1164a96b58b0800000000000000
+      internalID: -5162416393125408811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 48
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd410fe33b3cfd440800000000000000
+      internalID: 4962900489008059613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 48
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6f0662fa6f42180800000000000000
+      internalID: -9140910111531665755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 48
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cc2b16a3853fb30800000000000000
+      internalID: 4319893475348892690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77ead9e2e9fb6ed0800000000000000
+      internalID: -2419565621800147078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 34
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0544309fd60c20840800000000000000
+      internalID: 5188921299245941840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 34
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ff40029b3605990800000000000000
+      internalID: -7399304541012427005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 34
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a93103e1a6a0fb0800000000000000
+      internalID: -4680812184810055028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 34
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84173aace7da7a140800000000000000
+      internalID: 4730940693653188936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 34
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e569cc62e4b3b88e0800000000000000
+      internalID: -1690192028303059362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 34
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c379a36a0ee878f80800000000000000
+      internalID: -8104351908917242052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 34
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ae6614f5825fac0800000000000000
+      internalID: -3822104319169729908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_27
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 34
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6611fc9c15ddcb0800000000000000
+      internalID: -4837620497521744130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 32
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522b789b22d0d3990800000000000000
+      internalID: -7404747769534500315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_29
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 32
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7862b11b09f6e8e20800000000000000
+      internalID: 3354741439674918535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 32
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7f14dd24696ac90800000000000000
+      internalID: -7158869343734728745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 32
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2275a6f6fb7e64d0800000000000000
+      internalID: -3139435589600447955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_32
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 32
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35cb5eb563d389e0800000000000000
+      internalID: -1620219006984403654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_33
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 32
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80e6a2c2b83a5ad0800000000000000
+      internalID: -2712793485116252019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_34
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 32
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17faed9aaffd2f40800000000000000
+      internalID: 5705497411207231261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_35
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 32
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d71500473971a00800000000000000
+      internalID: 727211991274454382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcaecc68357ef0a0800000000000000
+      internalID: -6845905498352472835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f5787144922eb60800000000000000
+      internalID: 7773821279224160076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bdc24bb8cf03cc0800000000000000
+      internalID: -3733206414136648884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_39
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 18
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e3f3670ebd0c130800000000000000
+      internalID: 3585107060489928247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 18
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707cb8a3d9cff4250800000000000000
+      internalID: 5931236986492536583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 18
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee95929a10cc3190800000000000000
+      internalID: -7981293219246399770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_42
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 18
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27585d454ebc5220800000000000000
+      internalID: 2476063100006586156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 18
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813d2318d69525a70800000000000000
+      internalID: 8814205747571381016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 17
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a716afa85bc6b10800000000000000
+      internalID: 1976153945019611708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_45
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 17
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02849d1c455339430800000000000000
+      internalID: 3788430349694486560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_46
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 17
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e922bbb2d259f00800000000000000
+      internalID: 1122853347945258605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 17
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66779f80b95532570800000000000000
+      internalID: 8440684250981300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 17
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9187673fd393880800000000000000
+      internalID: -8630799095004915218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_49
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 17
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294574447bb15b3b0800000000000000
+      internalID: -5497457296197331822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_50
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 17
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716320d8840163fa0800000000000000
+      internalID: -5821447564540365289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_51
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 17
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ed2b6c802180e40800000000000000
+      internalID: 5622763963674713745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4e9e5630e7f8f90800000000000000
+      internalID: -6949197146949557032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cd17b7a4c652a10800000000000000
+      internalID: 1884031086278859857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400b96a2969374400800000000000000
+      internalID: 308278223344087044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca70ad6cb37390bd0800000000000000
+      internalID: -2663536974734162004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4824d128de3f6fbe0800000000000000
+      internalID: -1443698429109910908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b04f2347a490a180800000000000000
+      internalID: -9106115000435523400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b121f3f2b1328ed60800000000000000
+      internalID: 7919618544394768923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_59
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9178404336c45abc0800000000000000
+      internalID: -3772525123894737127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_60
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e124f1e87412d9540800000000000000
+      internalID: 5016202151171408414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_61
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07761823a56686160800000000000000
+      internalID: 7018972556837349232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_62
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb4824db77a9f300800000000000000
+      internalID: 286444201596963773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978bb9ee3039dafd0800000000000000
+      internalID: -2329043787183310727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_64
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3011ad3b89c266690800000000000000
+      internalID: -7609345486031810301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_65
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35202e36b10307570800000000000000
+      internalID: 8462316594027168339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_66
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c18105d1fb1998c0800000000000000
+      internalID: -3992128869212520000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Temple_Animation01_67
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636499e07406e7b00800000000000000
+      internalID: 828205239786620470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

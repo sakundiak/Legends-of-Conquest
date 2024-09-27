@@ -1,0 +1,7074 @@
+fileFormatVersion: 2
+guid: 38c62c8d35ad2a24caae6603152a7a84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5971042473603532185
+    second: RA_Jungle_0
+  - first:
+      213: 2031154678411400378
+    second: RA_Jungle_1
+  - first:
+      213: 1748376818105131507
+    second: RA_Jungle_2
+  - first:
+      213: 5143306905997002954
+    second: RA_Jungle_3
+  - first:
+      213: -6786026981836115808
+    second: RA_Jungle_4
+  - first:
+      213: 2935240989642728131
+    second: RA_Jungle_5
+  - first:
+      213: 6293873622539832909
+    second: RA_Jungle_6
+  - first:
+      213: 7502177140780393403
+    second: RA_Jungle_7
+  - first:
+      213: -996587153553533157
+    second: RA_Jungle_8
+  - first:
+      213: 8601081672264228424
+    second: RA_Jungle_9
+  - first:
+      213: 2428033409990366350
+    second: RA_Jungle_10
+  - first:
+      213: -6697196089127550130
+    second: RA_Jungle_11
+  - first:
+      213: 609057095428584767
+    second: RA_Jungle_12
+  - first:
+      213: -8764603691801887738
+    second: RA_Jungle_13
+  - first:
+      213: -102183601431796939
+    second: RA_Jungle_14
+  - first:
+      213: 2494316527325116701
+    second: RA_Jungle_15
+  - first:
+      213: 4224014629059681832
+    second: RA_Jungle_16
+  - first:
+      213: 752746738754597921
+    second: RA_Jungle_17
+  - first:
+      213: 1889434510670389401
+    second: RA_Jungle_18
+  - first:
+      213: 5986486735456745453
+    second: RA_Jungle_19
+  - first:
+      213: 727751745902746038
+    second: RA_Jungle_20
+  - first:
+      213: -3570287458268515298
+    second: RA_Jungle_21
+  - first:
+      213: 5656274911730113766
+    second: RA_Jungle_22
+  - first:
+      213: -3597050840587046118
+    second: RA_Jungle_23
+  - first:
+      213: 5593030909601666251
+    second: RA_Jungle_24
+  - first:
+      213: 2334336634903340557
+    second: RA_Jungle_25
+  - first:
+      213: 8415848626238163829
+    second: RA_Jungle_26
+  - first:
+      213: -3538911849992507887
+    second: RA_Jungle_27
+  - first:
+      213: 5812462176648615067
+    second: RA_Jungle_28
+  - first:
+      213: 7697083363518189762
+    second: RA_Jungle_29
+  - first:
+      213: 7264977839462245746
+    second: RA_Jungle_30
+  - first:
+      213: -3071188498373205306
+    second: RA_Jungle_31
+  - first:
+      213: 5348164752406711647
+    second: RA_Jungle_32
+  - first:
+      213: -6317910053565012974
+    second: RA_Jungle_33
+  - first:
+      213: -1925894974694211244
+    second: RA_Jungle_34
+  - first:
+      213: 6671037681073760674
+    second: RA_Jungle_35
+  - first:
+      213: -1161505550106051687
+    second: RA_Jungle_36
+  - first:
+      213: 7128911959794472170
+    second: RA_Jungle_37
+  - first:
+      213: -1080059447147939055
+    second: RA_Jungle_38
+  - first:
+      213: 3277999044279210279
+    second: RA_Jungle_39
+  - first:
+      213: -1212814762061485183
+    second: RA_Jungle_40
+  - first:
+      213: -2556919990849254598
+    second: RA_Jungle_41
+  - first:
+      213: 3843151778460015914
+    second: RA_Jungle_42
+  - first:
+      213: -7707773754147300187
+    second: RA_Jungle_43
+  - first:
+      213: -5700617388665665156
+    second: RA_Jungle_44
+  - first:
+      213: 6778622036336604832
+    second: RA_Jungle_45
+  - first:
+      213: 7731430975766360522
+    second: RA_Jungle_46
+  - first:
+      213: -3897480256801391827
+    second: RA_Jungle_47
+  - first:
+      213: 4772743589512504274
+    second: RA_Jungle_48
+  - first:
+      213: 8019651822764470224
+    second: RA_Jungle_49
+  - first:
+      213: 4068550559859886537
+    second: RA_Jungle_50
+  - first:
+      213: 7768857889311697994
+    second: RA_Jungle_51
+  - first:
+      213: 2416571829723940305
+    second: RA_Jungle_52
+  - first:
+      213: 5069531174378664734
+    second: RA_Jungle_53
+  - first:
+      213: 6891076136621242249
+    second: RA_Jungle_54
+  - first:
+      213: -2015863611017991220
+    second: RA_Jungle_55
+  - first:
+      213: -5454617493872358327
+    second: RA_Jungle_56
+  - first:
+      213: 6604958482094723317
+    second: RA_Jungle_57
+  - first:
+      213: -3369543291065972370
+    second: RA_Jungle_58
+  - first:
+      213: -1222458306280673364
+    second: RA_Jungle_59
+  - first:
+      213: 7157014565768773356
+    second: RA_Jungle_60
+  - first:
+      213: 6094526310927800034
+    second: RA_Jungle_61
+  - first:
+      213: 8028361787395340097
+    second: RA_Jungle_62
+  - first:
+      213: -1633538529245143323
+    second: RA_Jungle_63
+  - first:
+      213: -1677524582884633527
+    second: RA_Jungle_64
+  - first:
+      213: 4490667977713998485
+    second: RA_Jungle_65
+  - first:
+      213: 4656303158160371292
+    second: RA_Jungle_66
+  - first:
+      213: -3608999071821350616
+    second: RA_Jungle_67
+  - first:
+      213: -6366238292676847003
+    second: RA_Jungle_68
+  - first:
+      213: -2652486750258079323
+    second: RA_Jungle_69
+  - first:
+      213: 2440826639261720649
+    second: RA_Jungle_70
+  - first:
+      213: -3314245432218142355
+    second: RA_Jungle_71
+  - first:
+      213: 6371648170673175458
+    second: RA_Jungle_72
+  - first:
+      213: 1531995126326198011
+    second: RA_Jungle_73
+  - first:
+      213: -580347724752396046
+    second: RA_Jungle_74
+  - first:
+      213: -7578383912193878279
+    second: RA_Jungle_75
+  - first:
+      213: 1135286141841490116
+    second: RA_Jungle_76
+  - first:
+      213: -2149890391152163017
+    second: RA_Jungle_77
+  - first:
+      213: 6107253512557729769
+    second: RA_Jungle_78
+  - first:
+      213: 2155378524767019155
+    second: RA_Jungle_79
+  - first:
+      213: 6806294328094971193
+    second: RA_Jungle_80
+  - first:
+      213: -7247296140044606620
+    second: RA_Jungle_81
+  - first:
+      213: -2829836723819941087
+    second: RA_Jungle_82
+  - first:
+      213: 7188252936367794709
+    second: RA_Jungle_83
+  - first:
+      213: -6207494787125480462
+    second: RA_Jungle_84
+  - first:
+      213: -7830109359736926068
+    second: RA_Jungle_85
+  - first:
+      213: -6744844023903145974
+    second: RA_Jungle_86
+  - first:
+      213: 7556771685031609525
+    second: RA_Jungle_87
+  - first:
+      213: 8697521292707049715
+    second: RA_Jungle_88
+  - first:
+      213: -1910568564272541459
+    second: RA_Jungle_89
+  - first:
+      213: -6268158824952226479
+    second: RA_Jungle_90
+  - first:
+      213: 6695832156242526447
+    second: RA_Jungle_91
+  - first:
+      213: -6780276433982725721
+    second: RA_Jungle_92
+  - first:
+      213: 7746051608265205160
+    second: RA_Jungle_93
+  - first:
+      213: 7979743008782399052
+    second: RA_Jungle_94
+  - first:
+      213: -2776517517446668958
+    second: RA_Jungle_95
+  - first:
+      213: -3455127346585248827
+    second: RA_Jungle_96
+  - first:
+      213: 835853232450197742
+    second: RA_Jungle_97
+  - first:
+      213: -2735568138775457882
+    second: RA_Jungle_98
+  - first:
+      213: -3190509838367980433
+    second: RA_Jungle_99
+  - first:
+      213: -3225969198578561963
+    second: RA_Jungle_100
+  - first:
+      213: -8833056511678743294
+    second: RA_Jungle_101
+  - first:
+      213: -4881520672255491473
+    second: RA_Jungle_102
+  - first:
+      213: -2257087505929080039
+    second: RA_Jungle_103
+  - first:
+      213: 8985784762254407165
+    second: RA_Jungle_104
+  - first:
+      213: 6374320848822143373
+    second: RA_Jungle_105
+  - first:
+      213: 5090159233632008220
+    second: RA_Jungle_106
+  - first:
+      213: 486287378300258268
+    second: RA_Jungle_107
+  - first:
+      213: -3019140170713416185
+    second: RA_Jungle_108
+  - first:
+      213: -770058236464718331
+    second: RA_Jungle_109
+  - first:
+      213: 6322518369002217778
+    second: RA_Jungle_110
+  - first:
+      213: 8508651941844905011
+    second: RA_Jungle_111
+  - first:
+      213: 609690573675953403
+    second: RA_Jungle_112
+  - first:
+      213: 4970164864797103370
+    second: RA_Jungle_113
+  - first:
+      213: 1837976070804064551
+    second: RA_Jungle_114
+  - first:
+      213: 8620329462285336723
+    second: RA_Jungle_115
+  - first:
+      213: 5335132776623820145
+    second: RA_Jungle_116
+  - first:
+      213: -9155125432800624882
+    second: RA_Jungle_117
+  - first:
+      213: -6581559817770797510
+    second: RA_Jungle_118
+  - first:
+      213: -478038402367478720
+    second: RA_Jungle_119
+  - first:
+      213: -8692940503866221643
+    second: RA_Jungle_120
+  - first:
+      213: -788732263856532631
+    second: RA_Jungle_121
+  - first:
+      213: -2586692999305447137
+    second: RA_Jungle_122
+  - first:
+      213: -5665553255410251751
+    second: RA_Jungle_123
+  - first:
+      213: 8003248827439848918
+    second: RA_Jungle_124
+  - first:
+      213: 7436603330873675865
+    second: RA_Jungle_125
+  - first:
+      213: -806403715679212598
+    second: RA_Jungle_126
+  - first:
+      213: 4749225217954480978
+    second: RA_Jungle_127
+  - first:
+      213: 143096542070287212
+    second: RA_Jungle_128
+  - first:
+      213: 8341028787721100418
+    second: RA_Jungle_129
+  - first:
+      213: 7386341858097605494
+    second: RA_Jungle_130
+  - first:
+      213: -263945208878895379
+    second: RA_Jungle_131
+  - first:
+      213: -8970404470967518626
+    second: RA_Jungle_132
+  - first:
+      213: -5940625265358599125
+    second: RA_Jungle_133
+  - first:
+      213: 2013236542040353253
+    second: RA_Jungle_134
+  - first:
+      213: 6266054433125612509
+    second: RA_Jungle_135
+  - first:
+      213: -840513800247117519
+    second: RA_Jungle_136
+  - first:
+      213: 5058848789423921256
+    second: RA_Jungle_137
+  - first:
+      213: 799980991830278177
+    second: RA_Jungle_138
+  - first:
+      213: 9184860409014617302
+    second: RA_Jungle_139
+  - first:
+      213: -8126610363164404675
+    second: RA_Jungle_140
+  - first:
+      213: 5167599592506133147
+    second: RA_Jungle_141
+  - first:
+      213: 4658377961845153976
+    second: RA_Jungle_142
+  - first:
+      213: -7667816205473076081
+    second: RA_Jungle_143
+  - first:
+      213: 3532474402430984419
+    second: RA_Jungle_144
+  - first:
+      213: 6337201807612750806
+    second: RA_Jungle_145
+  - first:
+      213: -4328712603395960094
+    second: RA_Jungle_146
+  - first:
+      213: 4827447015476028275
+    second: RA_Jungle_147
+  - first:
+      213: -3080435837346569095
+    second: RA_Jungle_148
+  - first:
+      213: 2151971435835783165
+    second: RA_Jungle_149
+  - first:
+      213: -3694639813080474800
+    second: RA_Jungle_150
+  - first:
+      213: 2680688759429972829
+    second: RA_Jungle_151
+  - first:
+      213: -5400827943012313912
+    second: RA_Jungle_152
+  - first:
+      213: -3335262798703671822
+    second: RA_Jungle_153
+  - first:
+      213: 2784691943090429214
+    second: RA_Jungle_154
+  - first:
+      213: -1938804248202049892
+    second: RA_Jungle_155
+  - first:
+      213: 7943937258751810249
+    second: RA_Jungle_156
+  - first:
+      213: -8637223341903590494
+    second: RA_Jungle_157
+  - first:
+      213: 1673019430461699007
+    second: RA_Jungle_158
+  - first:
+      213: 1719990132306719970
+    second: RA_Jungle_159
+  - first:
+      213: 1421242803453725636
+    second: RA_Jungle_160
+  - first:
+      213: 725543286669160810
+    second: RA_Jungle_161
+  - first:
+      213: 8418260151606866294
+    second: RA_Jungle_162
+  - first:
+      213: -4415986156672053423
+    second: RA_Jungle_163
+  - first:
+      213: -8688023734315058936
+    second: RA_Jungle_164
+  - first:
+      213: 239284802859855869
+    second: RA_Jungle_165
+  - first:
+      213: -1770358732406980807
+    second: RA_Jungle_166
+  - first:
+      213: 7418279851009015372
+    second: RA_Jungle_167
+  - first:
+      213: 3125202005271402719
+    second: RA_Jungle_168
+  - first:
+      213: 3702348627475544966
+    second: RA_Jungle_169
+  - first:
+      213: 5159617757995511330
+    second: RA_Jungle_170
+  - first:
+      213: -8649691508535741286
+    second: RA_Jungle_171
+  - first:
+      213: -3210002337961040068
+    second: RA_Jungle_172
+  - first:
+      213: 9089314278484159856
+    second: RA_Jungle_173
+  - first:
+      213: 8515056529322627260
+    second: RA_Jungle_174
+  - first:
+      213: 5652485405690744280
+    second: RA_Jungle_175
+  - first:
+      213: -1034695065804792627
+    second: RA_Jungle_176
+  - first:
+      213: 2920240532790898992
+    second: RA_Jungle_177
+  - first:
+      213: 8530218680025982271
+    second: RA_Jungle_178
+  - first:
+      213: -6361162348615200590
+    second: RA_Jungle_179
+  - first:
+      213: 2310645691920971778
+    second: RA_Jungle_180
+  - first:
+      213: 3643325690096745349
+    second: RA_Jungle_181
+  - first:
+      213: -6218624759773201038
+    second: RA_Jungle_182
+  - first:
+      213: -1601548171508830094
+    second: RA_Jungle_183
+  - first:
+      213: 8040425339943545969
+    second: RA_Jungle_184
+  - first:
+      213: -1208957655937613404
+    second: RA_Jungle_185
+  - first:
+      213: -8781661953201720409
+    second: RA_Jungle_186
+  - first:
+      213: 1493845477729083281
+    second: RA_Jungle_187
+  - first:
+      213: -4365304803265293981
+    second: RA_Jungle_188
+  - first:
+      213: 4402120656648228368
+    second: RA_Jungle_189
+  - first:
+      213: 1587294781686938593
+    second: RA_Jungle_190
+  - first:
+      213: -7975853572120042919
+    second: RA_Jungle_191
+  - first:
+      213: -2692096302474456763
+    second: RA_Jungle_192
+  - first:
+      213: 1262059015251630969
+    second: RA_Jungle_193
+  - first:
+      213: -563299176085256330
+    second: RA_Jungle_194
+  - first:
+      213: -6503032115718537704
+    second: RA_Jungle_195
+  - first:
+      213: 8445787486830876448
+    second: RA_Jungle_196
+  - first:
+      213: 4720929154605829039
+    second: RA_Jungle_197
+  - first:
+      213: 4956306882255924246
+    second: RA_Jungle_198
+  - first:
+      213: -376485765000797975
+    second: RA_Jungle_199
+  - first:
+      213: 6378694039982434083
+    second: RA_Jungle_200
+  - first:
+      213: -6247595733858463060
+    second: RA_Jungle_201
+  - first:
+      213: 7398980994263531515
+    second: RA_Jungle_202
+  - first:
+      213: 2569732492497029351
+    second: RA_Jungle_203
+  - first:
+      213: 2529262098298232194
+    second: RA_Jungle_204
+  - first:
+      213: 2525106216102832440
+    second: RA_Jungle_205
+  - first:
+      213: -7702958158383923070
+    second: RA_Jungle_206
+  - first:
+      213: 1668310033188657700
+    second: RA_Jungle_207
+  - first:
+      213: -2152956087467431818
+    second: RA_Jungle_208
+  - first:
+      213: 1291486730375147412
+    second: RA_Jungle_209
+  - first:
+      213: -8104030108702845293
+    second: RA_Jungle_210
+  - first:
+      213: 5445895226967056261
+    second: RA_Jungle_211
+  - first:
+      213: -5357070556662825242
+    second: RA_Jungle_212
+  - first:
+      213: -3167668987544429742
+    second: RA_Jungle_213
+  - first:
+      213: -5397842843107507326
+    second: RA_Jungle_214
+  - first:
+      213: 8749593750231497347
+    second: RA_Jungle_215
+  - first:
+      213: -8850199981292954382
+    second: RA_Jungle_216
+  - first:
+      213: 7004527065090133901
+    second: RA_Jungle_217
+  - first:
+      213: -557240546034321210
+    second: RA_Jungle_218
+  - first:
+      213: 9182663103790125683
+    second: RA_Jungle_219
+  - first:
+      213: 7607970844510777685
+    second: RA_Jungle_220
+  - first:
+      213: 1123122369472610488
+    second: RA_Jungle_221
+  - first:
+      213: 3945329753513541686
+    second: RA_Jungle_222
+  - first:
+      213: -6008349569778819463
+    second: RA_Jungle_223
+  - first:
+      213: -3220666639813783419
+    second: RA_Jungle_224
+  - first:
+      213: -1478972626009967107
+    second: RA_Jungle_225
+  - first:
+      213: -950255400600303653
+    second: RA_Jungle_226
+  - first:
+      213: 4502315188931174881
+    second: RA_Jungle_227
+  - first:
+      213: 223673080401824315
+    second: RA_Jungle_228
+  - first:
+      213: 1699395089164784258
+    second: RA_Jungle_229
+  - first:
+      213: 5608241766153275578
+    second: RA_Jungle_230
+  - first:
+      213: 6695696397487075520
+    second: RA_Jungle_231
+  - first:
+      213: -4591600903373412966
+    second: RA_Jungle_232
+  - first:
+      213: 6063363177976321963
+    second: RA_Jungle_233
+  - first:
+      213: 4809990949044440730
+    second: RA_Jungle_234
+  - first:
+      213: 6652801850902967330
+    second: RA_Jungle_235
+  - first:
+      213: 1245076956724173308
+    second: RA_Jungle_236
+  - first:
+      213: 905201270483467575
+    second: RA_Jungle_237
+  - first:
+      213: -8503741442996794053
+    second: RA_Jungle_238
+  - first:
+      213: 6155924048523201399
+    second: RA_Jungle_239
+  - first:
+      213: 7872190001203488039
+    second: RA_Jungle_240
+  - first:
+      213: -5232374079901140922
+    second: RA_Jungle_241
+  - first:
+      213: -4679870022307265468
+    second: RA_Jungle_242
+  - first:
+      213: -2013825706681480791
+    second: RA_Jungle_243
+  - first:
+      213: -5189768731592600967
+    second: RA_Jungle_244
+  - first:
+      213: -3398301493035859238
+    second: RA_Jungle_245
+  - first:
+      213: 1764590175653204627
+    second: RA_Jungle_246
+  - first:
+      213: -5900712442458265676
+    second: RA_Jungle_247
+  - first:
+      213: -7663405689804743123
+    second: RA_Jungle_248
+  - first:
+      213: -1247810089323359274
+    second: RA_Jungle_249
+  - first:
+      213: 6000556072244771935
+    second: RA_Jungle_250
+  - first:
+      213: -1315121432849953094
+    second: RA_Jungle_251
+  - first:
+      213: 4013507010885934890
+    second: RA_Jungle_252
+  - first:
+      213: 3002924869312747624
+    second: RA_Jungle_253
+  - first:
+      213: -5655209268438694951
+    second: RA_Jungle_254
+  - first:
+      213: -6838865834332707266
+    second: RA_Jungle_255
+  - first:
+      213: -438883135532653669
+    second: RA_Jungle_256
+  - first:
+      213: 2558932122168623417
+    second: RA_Jungle_257
+  - first:
+      213: -7595314391206048066
+    second: RA_Jungle_258
+  - first:
+      213: -8091766294317134192
+    second: RA_Jungle_259
+  - first:
+      213: 3466980200257631099
+    second: RA_Jungle_260
+  - first:
+      213: -4419118066756148553
+    second: RA_Jungle_261
+  - first:
+      213: -1264959576975433151
+    second: RA_Jungle_262
+  - first:
+      213: 8363321528336314380
+    second: RA_Jungle_263
+  - first:
+      213: 6103022237168332726
+    second: RA_Jungle_264
+  - first:
+      213: -2932464157691639308
+    second: RA_Jungle_265
+  - first:
+      213: -3255887963698037820
+    second: RA_Jungle_266
+  - first:
+      213: 933375501208036607
+    second: RA_Jungle_267
+  - first:
+      213: -7513062384914377854
+    second: RA_Jungle_268
+  - first:
+      213: -6383571091718287639
+    second: RA_Jungle_269
+  - first:
+      213: -1298984100490760972
+    second: RA_Jungle_270
+  - first:
+      213: 6094500503908978253
+    second: RA_Jungle_271
+  - first:
+      213: 2603288189451062064
+    second: RA_Jungle_272
+  - first:
+      213: -8910430094971754315
+    second: RA_Jungle_273
+  - first:
+      213: -4024042116712126307
+    second: RA_Jungle_274
+  - first:
+      213: 1071134729856467842
+    second: RA_Jungle_275
+  - first:
+      213: 7957864709283337212
+    second: RA_Jungle_276
+  - first:
+      213: -4853305297295675555
+    second: RA_Jungle_277
+  - first:
+      213: 2124170913035527106
+    second: RA_Jungle_278
+  - first:
+      213: -1997604303973538869
+    second: RA_Jungle_279
+  - first:
+      213: 1242925082905984250
+    second: RA_Jungle_280
+  - first:
+      213: -7226056034256666852
+    second: RA_Jungle_281
+  - first:
+      213: 5321421300203397114
+    second: RA_Jungle_282
+  - first:
+      213: 2400219538031998961
+    second: RA_Jungle_283
+  - first:
+      213: -4608263728086830365
+    second: RA_Jungle_284
+  - first:
+      213: -8132021419871813707
+    second: RA_Jungle_285
+  - first:
+      213: 7092105794040998650
+    second: RA_Jungle_286
+  - first:
+      213: -4865665610456681071
+    second: RA_Jungle_287
+  - first:
+      213: -294887524902477883
+    second: RA_Jungle_288
+  - first:
+      213: 7347271497237118923
+    second: RA_Jungle_289
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RA_Jungle_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 677
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a77169188922da0800000000000000
+      internalID: -5971042473603532185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 677
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab495922b6c103c10800000000000000
+      internalID: 2031154678411400378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 676
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f12fa8e37b734810800000000000000
+      internalID: 1748376818105131507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 676
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8c3ce6162b06740800000000000000
+      internalID: 5143306905997002954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 673
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a03177f96033d1a0800000000000000
+      internalID: -6786026981836115808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 673
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c222d5e0221cb820800000000000000
+      internalID: 2935240989642728131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 677
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e00bc96b4585750800000000000000
+      internalID: 6293873622539832909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 677
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3654e7c561d1860800000000000000
+      internalID: 7502177140780393403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 597
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1759b493496b22f0800000000000000
+      internalID: -996587153553533157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 597
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e9e6fd53e2d5770800000000000000
+      internalID: 8601081672264228424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 596
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e849149a58b12b120800000000000000
+      internalID: 2428033409990366350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 596
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43ca64e3a7ce03a0800000000000000
+      internalID: -6697196089127550130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 593
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35b3fc833ec37800800000000000000
+      internalID: 609057095428584767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 593
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c3211116fdd5680800000000000000
+      internalID: -8764603691801887738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 593
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533a9ce4e88f49ef0800000000000000
+      internalID: -102183601431796939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 593
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1979988aa79d9220800000000000000
+      internalID: 2494316527325116701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 517
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ed723ece6be9a30800000000000000
+      internalID: 4224014629059681832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 517
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1243d41bb2b427a00800000000000000
+      internalID: 752746738754597921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 516
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9906fd24dae983a10800000000000000
+      internalID: 1889434510670389401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 516
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7bc77d7f5441350800000000000000
+      internalID: 5986486735456745453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 513
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9143b6b5e791a00800000000000000
+      internalID: 727751745902746038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 513
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e147fdf097ac37ec0800000000000000
+      internalID: -3570287458268515298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_22
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 516
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec90a160102f7e40800000000000000
+      internalID: 5656274911730113766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_23
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 516
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13f9c78155b41ec0800000000000000
+      internalID: -3597050840587046118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 432
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc45698aaff6e9d40800000000000000
+      internalID: 5593030909601666251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 432
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0628953dca356020800000000000000
+      internalID: 2334336634903340557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 436
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b826a8cb91bc470800000000000000
+      internalID: 8415848626238163829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 436
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ea6c12c6243eec0800000000000000
+      internalID: -3538911849992507887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 433
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94d88dcd830aa050800000000000000
+      internalID: 5812462176648615067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_29
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 433
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c01219c98881da60800000000000000
+      internalID: 7697083363518189762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 437
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2756b3e7ad262d460800000000000000
+      internalID: 7264977839462245746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_31
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 437
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c223342552f065d0800000000000000
+      internalID: -3071188498373205306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 352
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d877ba18f783a40800000000000000
+      internalID: 5348164752406711647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 352
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214636ea7464258a0800000000000000
+      internalID: -6317910053565012974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_34
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 356
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45144ae69b8d545e0800000000000000
+      internalID: -1925894974694211244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 356
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9a5af1d69449c50800000000000000
+      internalID: 6671037681073760674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_36
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 353
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bb8492bd081efe0800000000000000
+      internalID: -1161505550106051687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_37
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 353
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4559628abfee260800000000000000
+      internalID: 7128911959794472170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_38
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 353
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b317cb7abd201f0800000000000000
+      internalID: -1080059447147939055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_39
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 353
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721155063cacd7d20800000000000000
+      internalID: 3277999044279210279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 272
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ba9f056673b2fe0800000000000000
+      internalID: -1212814762061485183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 272
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bc552c0def38cd0800000000000000
+      internalID: -2556919990849254598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 276
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d150d3e2e955530800000000000000
+      internalID: 3843151778460015914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 276
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac98feab9c780590800000000000000
+      internalID: -7707773754147300187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 273
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c790b2c20b653e0b0800000000000000
+      internalID: -5700617388665665156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_45
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 273
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a67a7ec3d0821e50800000000000000
+      internalID: 6778622036336604832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_46
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 276
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac17104728f8b4b60800000000000000
+      internalID: 7731430975766360522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_47
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 276
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b314e2b5e59e9c0800000000000000
+      internalID: -3897480256801391827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 249
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d36ae0f1013c3240800000000000000
+      internalID: 4772743589512504274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_49
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 247
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfa036c7d68b4f60800000000000000
+      internalID: 8019651822764470224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_50
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 246
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c94a279d25667830800000000000000
+      internalID: 4068550559859886537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_51
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 247
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c2ae2d61780db60800000000000000
+      internalID: 7768857889311697994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 246
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d549ec8643698120800000000000000
+      internalID: 2416571829723940305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_53
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 247
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13fb9a5eb79a5640800000000000000
+      internalID: 5069531174378664734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_54
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 246
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987fa7b5c3502af50800000000000000
+      internalID: 6891076136621242249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_55
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 245
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbe2ade9b63604e0800000000000000
+      internalID: -2015863611017991220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_56
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 245
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c4b140a4e4d44b0800000000000000
+      internalID: -5454617493872358327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_57
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 247
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f09571beb689ab50800000000000000
+      internalID: 6604958482094723317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_58
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 241
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6946b8ba3afc31d0800000000000000
+      internalID: -3369543291065972370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_59
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 243
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf2a65b5a4f80fe0800000000000000
+      internalID: -1222458306280673364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_60
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceeb1fcf3d2d25360800000000000000
+      internalID: 7157014565768773356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_61
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 245
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e69f1db36b149450800000000000000
+      internalID: 6094526310927800034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_62
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 245
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147f40272887a6f60800000000000000
+      internalID: 8028361787395340097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_63
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 246
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eedd6dcc518459e0800000000000000
+      internalID: -1633538529245143323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_64
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 243
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9441d2f974c38b8e0800000000000000
+      internalID: -1677524582884633527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_65
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 241
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a5ddfabbe025e30800000000000000
+      internalID: 4490667977713998485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_66
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 239
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eadac5d038e9040800000000000000
+      internalID: 4656303158160371292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_67
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 223
+        width: 97
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829bf5927724aedc0800000000000000
+      internalID: -3608999071821350616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_68
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 223
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ad189a00496a7a0800000000000000
+      internalID: -6366238292676847003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_69
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 227
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9df67aa59703bd0800000000000000
+      internalID: -2652486750258079323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_70
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940618775ee8fd120800000000000000
+      internalID: 2440826639261720649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_71
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 225
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d693d2ac65f6102d0800000000000000
+      internalID: -3314245432218142355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abfdb6b044ac6850800000000000000
+      internalID: 6371648170673175458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_73
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 225
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe7d46537db24510800000000000000
+      internalID: 1531995126326198011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_74
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f06de3b1d032f7f0800000000000000
+      internalID: -580347724752396046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_75
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 215
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6162edbfb24d690800000000000000
+      internalID: -7578383912193878279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_76
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 224
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0c2e22bb851cf00800000000000000
+      internalID: 1135286141841490116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_77
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 225
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7378951741e0a22e0800000000000000
+      internalID: -2149890391152163017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_78
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 224
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7924946b251c450800000000000000
+      internalID: 6107253512557729769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3906e3d395179ed10800000000000000
+      internalID: 2155378524767019155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_80
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 214
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9355bde41a0d47e50800000000000000
+      internalID: 6806294328094971193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_81
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463e496fe8e6c6b90800000000000000
+      internalID: -7247296140044606620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_82
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1237b582e766ab8d0800000000000000
+      internalID: -2829836723819941087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_83
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 216
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a6cdbe5fdc1c360800000000000000
+      internalID: 7188252936367794709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_84
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 213
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3fb4c316c8ad9a0800000000000000
+      internalID: -6207494787125480462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_85
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 213
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c805b64e50dd55390800000000000000
+      internalID: -7830109359736926068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_86
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 213
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0036d198108562a0800000000000000
+      internalID: -6744844023903145974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_87
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 208
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b40a0f5fcb0fd860800000000000000
+      internalID: 7556771685031609525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_88
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 207
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f03336c88dc3b870800000000000000
+      internalID: 8697521292707049715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_89
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 209
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0d18f630c4c75e0800000000000000
+      internalID: -1910568564272541459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_90
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 193
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d1ef242c60309a0800000000000000
+      internalID: -6268158824952226479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 193
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0497cbedf5cec50800000000000000
+      internalID: 6695832156242526447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_92
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 208
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1e189b18e97e1a0800000000000000
+      internalID: -6780276433982725721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_93
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 216
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5ad7ab5e08f7b60800000000000000
+      internalID: 7746051608265205160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_94
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 208
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46b16decfdbdbe60800000000000000
+      internalID: 7979743008782399052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_95
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 191
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d11fb4704d779d0800000000000000
+      internalID: -2776517517446668958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_96
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 191
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb5c0dfbfbec00d0800000000000000
+      internalID: -3455127346585248827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_97
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 199
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee85e8c161c899b00800000000000000
+      internalID: 835853232450197742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 191
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af896d754f490ad0800000000000000
+      internalID: -2735568138775457882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_99
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 199
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6400bfb43809b3d0800000000000000
+      internalID: -3190509838367980433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_100
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 191
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c8f561b1e0b33d0800000000000000
+      internalID: -3225969198578561963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_101
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 196
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dff64f6edaa6580800000000000000
+      internalID: -8833056511678743294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_102
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f624c7edfca514cb0800000000000000
+      internalID: -4881520672255491473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_103
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913ff163fd63da0e0800000000000000
+      internalID: -2257087505929080039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_104
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 192
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5ba4ee1abe3bc70800000000000000
+      internalID: 8985784762254407165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_105
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8909661a03267850800000000000000
+      internalID: 6374320848822143373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_106
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 197
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c187fcaaad0e3a640800000000000000
+      internalID: 5090159233632008220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_107
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 197
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7c75a4bc3afb600800000000000000
+      internalID: 486287378300258268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_108
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 193
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eb385c20cd916d0800000000000000
+      internalID: -3019140170713416185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_109
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 195
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e18272d143055f0800000000000000
+      internalID: -770058236464718331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_110
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231624e55f81eb750800000000000000
+      internalID: 6322518369002217778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_111
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 191
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c6a1f3cddc41670800000000000000
+      internalID: 8508651941844905011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 181
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcfbd2b85e067800800000000000000
+      internalID: 609690573675953403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_113
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 181
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05db598c9299f440800000000000000
+      internalID: 4970164864797103370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_114
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 176
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729c1f59f7dc18910800000000000000
+      internalID: 1837976070804064551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3900a5639ff81a770800000000000000
+      internalID: 8620329462285336723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_116
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 183
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dc43c5ef23a0a40800000000000000
+      internalID: 5335132776623820145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_117
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 182
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f36cfbce572f080800000000000000
+      internalID: -9155125432800624882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_118
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 182
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3679c1673a99a4a0800000000000000
+      internalID: -6581559817770797510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 184
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04424e51b9aad59f0800000000000000
+      internalID: -478038402367478720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_120
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 185
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbd27d3ba87c5780800000000000000
+      internalID: -8692940503866221643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_121
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 185
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96311f55f2cdd05f0800000000000000
+      internalID: -788732263856532631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_122
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 191
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19b8690c683a1cd0800000000000000
+      internalID: -2586692999305447137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_123
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 185
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918c633e459ef51b0800000000000000
+      internalID: -5665553255410251751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_124
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 181
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd1d90d760411f60800000000000000
+      internalID: 8003248827439848918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_125
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 175
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9505630245f143760800000000000000
+      internalID: 7436603330873675865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_126
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 177
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acba265d7141fc4f0800000000000000
+      internalID: -806403715679212598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_127
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 177
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253018a5c23a8e140800000000000000
+      internalID: 4749225217954480978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_128
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bafaefb816cf100800000000000000
+      internalID: 143096542070287212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_129
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 181
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c5c616d7941c370800000000000000
+      internalID: 8341028787721100418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_130
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 179
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ba18119ce818660800000000000000
+      internalID: 7386341858097605494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_131
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 180
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee6b902b37465cf0800000000000000
+      internalID: -263945208878895379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_132
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 181
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ab76039a8b28380800000000000000
+      internalID: -8970404470967518626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_133
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c0792cbc8ae8da0800000000000000
+      internalID: -5940625265358599125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_134
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 176
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9a629e7f370fb10800000000000000
+      internalID: 2013236542040353253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_135
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 177
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbb6b5de4f75f650800000000000000
+      internalID: 6266054433125612509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_136
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 176
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139f473e625e554f0800000000000000
+      internalID: -840513800247117519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_137
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868170acb24a43640800000000000000
+      internalID: 5058848789423921256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_138
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120cb1d397a1a1b00800000000000000
+      internalID: 799980991830278177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_139
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d48dd6e0ed277f70800000000000000
+      internalID: 9184860409014617302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_140
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 159
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34d39b6eea783f80800000000000000
+      internalID: -8126610363164404675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_141
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 159
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a08c4437007b740800000000000000
+      internalID: 5167599592506133147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_142
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 167
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0e94d3312e5a040800000000000000
+      internalID: 4658377961845153976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c2bc579c1769590800000000000000
+      internalID: -7667816205473076081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_144
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 167
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e02f0fc0ced50130800000000000000
+      internalID: 3532474402430984419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_145
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 159
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dba8b4d77342f750800000000000000
+      internalID: 6337201807612750806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_146
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 164
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2d3db52d25de3c0800000000000000
+      internalID: -4328712603395960094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_147
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 160
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373e771db798ef240800000000000000
+      internalID: 4827447015476028275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_148
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97423914de71045d0800000000000000
+      internalID: -3080435837346569095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_149
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 160
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df777c78e965ddd10800000000000000
+      internalID: 2151971435835783165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b92504aa00abcc0800000000000000
+      internalID: -3694639813080474800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_151
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 165
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53c43b4938b33520800000000000000
+      internalID: 2680688759429972829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_152
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 165
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c45fb3c9976c05b0800000000000000
+      internalID: -5400827943012313912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_153
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 161
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f541b2d724c6b1d0800000000000000
+      internalID: -3335262798703671822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_154
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d1ccc719635a620800000000000000
+      internalID: 2784691943090429214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_155
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 165
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9606e8fecbf715e0800000000000000
+      internalID: -1938804248202049892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_156
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 162
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca54e919d88e3e60800000000000000
+      internalID: 7943937258751810249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_157
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 164
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abcf1ce12b622880800000000000000
+      internalID: -8637223341903590494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_158
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 159
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3fef6de42c73710800000000000000
+      internalID: 1673019430461699007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_159
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 164
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4b15599e1aed710800000000000000
+      internalID: 1719990132306719970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_160
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 159
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb8077bcc449b310800000000000000
+      internalID: 1421242803453725636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_161
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 160
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61b51f66c5a11a00800000000000000
+      internalID: 725543286669160810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_162
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6717a5b810ba3d470800000000000000
+      internalID: 8418260151606866294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_163
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 165
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f0586ccf347b2c0800000000000000
+      internalID: -4415986156672053423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_164
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 162
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809fcfbd170fd6780800000000000000
+      internalID: -8688023734315058936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_165
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 164
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff6c9aa24c125300800000000000000
+      internalID: 239284802859855869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_166
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 159
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ffed5dc1c6e67e0800000000000000
+      internalID: -1770358732406980807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_167
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 164
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e74d3883603f660800000000000000
+      internalID: 7418279851009015372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_168
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 159
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd85a8f6aa2fe5b20800000000000000
+      internalID: 3125202005271402719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_169
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 160
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bb557f572616330800000000000000
+      internalID: 3702348627475544966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_170
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 149
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eae1a9305aa9740800000000000000
+      internalID: 5159617757995511330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_171
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 148
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94b309a66f16f780800000000000000
+      internalID: -8649691508535741286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_172
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 148
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37a8a581e7c373d0800000000000000
+      internalID: -3210002337961040068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_173
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 150
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d2fe4dd2bb32e70800000000000000
+      internalID: 9089314278484159856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_174
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 148
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb055a87cce8b2670800000000000000
+      internalID: 8515056529322627260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_175
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 149
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddc6404789a17e40800000000000000
+      internalID: 5652485405690744280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_176
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 149
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc1bd7d15604a1f0800000000000000
+      internalID: -1034695065804792627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_177
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 149
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031f2bfda47c68820800000000000000
+      internalID: 2920240532790898992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_178
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 150
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35a957c1bc616670800000000000000
+      internalID: 8530218680025982271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_179
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 148
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0933cfb8c98b7a0800000000000000
+      internalID: -6361162348615200590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_180
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 150
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2087cb4b300111020800000000000000
+      internalID: 2310645691920971778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_181
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 146
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b75477961bf8230800000000000000
+      internalID: 3643325690096745349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_182
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 146
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27df44a8ab103b9a0800000000000000
+      internalID: -6218624759773201038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_183
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 150
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2703a826c6826c9e0800000000000000
+      internalID: -1601548171508830094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_184
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 152
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c62662f34559f60800000000000000
+      internalID: 8040425339943545969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_185
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 144
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a18951da6be83fe0800000000000000
+      internalID: -1208957655937613404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_186
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 150
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a339d51bf4412680800000000000000
+      internalID: -8781661953201720409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_187
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 152
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f9d591c843bb410800000000000000
+      internalID: 1493845477729083281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_188
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 144
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361d019e8625b63c0800000000000000
+      internalID: -4365304803265293981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_189
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 149
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e4dede969771d30800000000000000
+      internalID: 4402120656648228368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_190
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 148
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebf740b134370610800000000000000
+      internalID: 1587294781686938593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_191
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 150
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952214d1f63105190800000000000000
+      internalID: -7975853572120042919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_192
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 146
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5411edd1da0c3aad0800000000000000
+      internalID: -2692096302474456763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_193
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 146
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b17a9dcfbb38110800000000000000
+      internalID: 1262059015251630969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_194
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 150
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6770b234262ce28f0800000000000000
+      internalID: -563299176085256330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_195
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81eb3abceb690c5a0800000000000000
+      internalID: -6503032115718537704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 132
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0275ef8b8f6753570800000000000000
+      internalID: 8445787486830876448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_197
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 132
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabc016bd0c148140800000000000000
+      internalID: 4720929154605829039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_198
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 134
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c20ba89d658c440800000000000000
+      internalID: 4956306882255924246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_199
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 132
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0e222013476caf0800000000000000
+      internalID: -376485765000797975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_200
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 133
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327ed000f6ca58850800000000000000
+      internalID: 6378694039982434083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_201
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2de1ff7c41c49a0800000000000000
+      internalID: -6247595733858463060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_202
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffb1f643067ea660800000000000000
+      internalID: 7398980994263531515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_203
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 134
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8801f361689a320800000000000000
+      internalID: 2569732492497029351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_204
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 79
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ddce05a7eb91320800000000000000
+      internalID: 2529262098298232194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_205
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 85
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839a0f699bafa0320800000000000000
+      internalID: 2525106216102832440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_206
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 129
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28044d1fd58991590800000000000000
+      internalID: -7702958158383923070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_207
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 56
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a1e67d227072710800000000000000
+      internalID: 1668310033188657700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_208
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 117
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6782d7568d92f12e0800000000000000
+      internalID: -2152956087467431818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_209
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 116
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f2424b6584ce110800000000000000
+      internalID: 1291486730375147412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_210
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 116
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39652b99d83b88f80800000000000000
+      internalID: -8104030108702845293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_211
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 118
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fdd57fad4b39b40800000000000000
+      internalID: 5445895226967056261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_212
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 116
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee786136bcd7a5b0800000000000000
+      internalID: -5357070556662825242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_213
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 117
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b946fb6dd2a04d0800000000000000
+      internalID: -3167668987544429742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_214
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283413f78820715b0800000000000000
+      internalID: -5397842843107507326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_215
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ab683982dcc6970800000000000000
+      internalID: 8749593750231497347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_216
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 118
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc5dd3e106cd2580800000000000000
+      internalID: -8850199981292954382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_217
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 114
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f8e4e0144153160800000000000000
+      internalID: 7004527065090133901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_218
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 101
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8fd2ffca84448f0800000000000000
+      internalID: -557240546034321210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_219
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 100
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3721f79e07f5f6f70800000000000000
+      internalID: 9182663103790125683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_220
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 100
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551f790ac21f49960800000000000000
+      internalID: 7607970844510777685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_221
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 102
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0c5bf28d1269f00800000000000000
+      internalID: 1123122369472610488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_222
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 100
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63044ffe180a0c630800000000000000
+      internalID: 3945329753513541686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_223
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 101
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e56fe56ed0e9ca0800000000000000
+      internalID: -6008349569778819463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_224
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 101
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580d2f141c4ed43d0800000000000000
+      internalID: -3220666639813783419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_225
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 101
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5362a8b32a97be0800000000000000
+      internalID: -1478972626009967107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_226
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 102
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd782517fb300d2f0800000000000000
+      internalID: -950255400600303653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_227
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 102
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1a61f5fcf6b7e30800000000000000
+      internalID: 4502315188931174881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_228
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 85
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a0b274b75aa1300800000000000000
+      internalID: 223673080401824315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_229
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 84
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282d5be64d6759710800000000000000
+      internalID: 1699395089164784258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_230
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 84
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8431e2c2a74dd40800000000000000
+      internalID: 5608241766153275578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_231
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 86
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c07410f564ebec50800000000000000
+      internalID: 6695696397487075520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_232
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 84
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95a0144e4b5740c0800000000000000
+      internalID: -4591600903373412966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_233
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 85
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7567f6fa4652450800000000000000
+      internalID: 6063363177976321963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_234
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 85
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e43a2a84580c240800000000000000
+      internalID: 4809990949044440730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_235
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 85
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224f12c0900835c50800000000000000
+      internalID: 6652801850902967330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_236
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 86
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9919b35e6674110800000000000000
+      internalID: 1245076956724173308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_237
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d366172cbef8c00800000000000000
+      internalID: 905201270483467575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_238
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 82
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d886c5634acf980800000000000000
+      internalID: -8503741442996794053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_239
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b82808e4c3e6550800000000000000
+      internalID: 6155924048523201399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_240
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 68
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725ad12f813af3d60800000000000000
+      internalID: 7872190001203488039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_241
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 68
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648f7832f7fd267b0800000000000000
+      internalID: -5232374079901140922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_242
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 70
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444406d7203cd0fb0800000000000000
+      internalID: -4679870022307265468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_243
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 68
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a943b180347d04e0800000000000000
+      internalID: -2013825706681480791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_244
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 69
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9725efec5dc3af7b0800000000000000
+      internalID: -5189768731592600967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_245
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad20beb0ccec6d0d0800000000000000
+      internalID: -3398301493035859238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_246
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39214f16a651d7810800000000000000
+      internalID: 1764590175653204627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_247
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 70
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b72c810c457c1ea0800000000000000
+      internalID: -5900712442458265676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_248
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e1b79a02d16a590800000000000000
+      internalID: -7663405689804743123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_249
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 64
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d39bbeb553eeaee0800000000000000
+      internalID: -1247810089323359274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_250
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 53
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c76f494f1464350800000000000000
+      internalID: 6000556072244771935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_251
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 52
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abec97e4600cfbde0800000000000000
+      internalID: -1315121432849953094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_252
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 52
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f5567ac57d2b730800000000000000
+      internalID: 4013507010885934890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_253
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 54
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868929a22488ca920800000000000000
+      internalID: 3002924869312747624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_254
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 52
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d307380229a481b0800000000000000
+      internalID: -5655209268438694951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_255
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 53
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e362b0ee1c77711a0800000000000000
+      internalID: -6838865834332707266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_256
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93aaa01d16c8e9f0800000000000000
+      internalID: -438883135532653669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_257
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93182321537238320800000000000000
+      internalID: 2558932122168623417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_258
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 54
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe40ca8dc5089690800000000000000
+      internalID: -7595314391206048066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_259
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 47
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e8fb56d6544bf80800000000000000
+      internalID: -8091766294317134192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_260
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b733baf8f103d1030800000000000000
+      internalID: 3466980200257631099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_261
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 36
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b22d7228832ca2c0800000000000000
+      internalID: -4419118066756148553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_262
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 36
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142a62f77f5f17ee0800000000000000
+      internalID: -1264959576975433151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_263
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 38
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00fcd68e9c701470800000000000000
+      internalID: 8363321528336314380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_264
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 36
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf6ab6b36a42b450800000000000000
+      internalID: 6103022237168332726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_265
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 37
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9893ca26bcd47d0800000000000000
+      internalID: -2932464157691639308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_266
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbfe4fb523c0d2d0800000000000000
+      internalID: -3255887963698037820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_267
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4ae87b21404fc00800000000000000
+      internalID: 933375501208036607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_268
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 38
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28354db119d3cb790800000000000000
+      internalID: -7513062384914377854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_269
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 33
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eecda7e9eff867a0800000000000000
+      internalID: -6383571091718287639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_270
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 21
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc2e59c7d419fde0800000000000000
+      internalID: -1298984100490760972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_271
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 20
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e0fe21be3049450800000000000000
+      internalID: 6094500503908978253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_272
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 20
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b4334c0dcb02420800000000000000
+      internalID: 2603288189451062064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_273
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 22
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b82241c90bc75480800000000000000
+      internalID: -8910430094971754315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_274
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98a920e30bb728c0800000000000000
+      internalID: -4024042116712126307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_275
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 21
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283cda79c5f6dde00800000000000000
+      internalID: 1071134729856467842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_276
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3537f5ac3007e60800000000000000
+      internalID: 7957864709283337212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_277
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f6b28cb8895acb0800000000000000
+      internalID: -4853305297295675555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_278
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 22
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c323b9e0329a7d10800000000000000
+      internalID: 2124170913035527106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_279
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 16
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3add328751744e0800000000000000
+      internalID: -1997604303973538869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_280
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 5
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcb80117c1cf3110800000000000000
+      internalID: 1242925082905984250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_281
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f30177254e7bb90800000000000000
+      internalID: -7226056034256666852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_282
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff12da7a7c79d940800000000000000
+      internalID: 5321421300203397114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_283
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 6
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f77953f3fa4f4120800000000000000
+      internalID: 2400219538031998961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_284
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 4
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e231101e882c00c0800000000000000
+      internalID: -4608263728086830365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_285
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 5
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf3caa9a91452f80800000000000000
+      internalID: -8132021419871813707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_286
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaad43e4a83c6260800000000000000
+      internalID: 7092105794040998650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_287
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19535ec18eea97cb0800000000000000
+      internalID: -4865665610456681071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_288
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 6
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf5e75cb5958ebf0800000000000000
+      internalID: -294887524902477883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Jungle_289
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfbb2dcf70c6f560800000000000000
+      internalID: 7347271497237118923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1602 @@
+fileFormatVersion: 2
+guid: 8c34e87ddac40814db703c94a24d80e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7444083009571684535
+    second: RA_Sanctuary_Tiles_0
+  - first:
+      213: -2522103817623856916
+    second: RA_Sanctuary_Tiles_1
+  - first:
+      213: -3613562931430524902
+    second: RA_Sanctuary_Tiles_2
+  - first:
+      213: -3998707142619795366
+    second: RA_Sanctuary_Tiles_3
+  - first:
+      213: -7116157221343631335
+    second: RA_Sanctuary_Tiles_4
+  - first:
+      213: -3016553485126868533
+    second: RA_Sanctuary_Tiles_5
+  - first:
+      213: -380667972319044439
+    second: RA_Sanctuary_Tiles_6
+  - first:
+      213: -733100970710003678
+    second: RA_Sanctuary_Tiles_7
+  - first:
+      213: -9160668144720498019
+    second: RA_Sanctuary_Tiles_8
+  - first:
+      213: -983071649745701475
+    second: RA_Sanctuary_Tiles_9
+  - first:
+      213: 878637698882424679
+    second: RA_Sanctuary_Tiles_10
+  - first:
+      213: -3593789971304704954
+    second: RA_Sanctuary_Tiles_11
+  - first:
+      213: 3182789402245953970
+    second: RA_Sanctuary_Tiles_12
+  - first:
+      213: 8414396321334471101
+    second: RA_Sanctuary_Tiles_13
+  - first:
+      213: -2719503181403108951
+    second: RA_Sanctuary_Tiles_14
+  - first:
+      213: -5113021935050868256
+    second: RA_Sanctuary_Tiles_15
+  - first:
+      213: 1740078233377283177
+    second: RA_Sanctuary_Tiles_16
+  - first:
+      213: 2057454891063227315
+    second: RA_Sanctuary_Tiles_17
+  - first:
+      213: -8718620255460084193
+    second: RA_Sanctuary_Tiles_18
+  - first:
+      213: 7508675073669383101
+    second: RA_Sanctuary_Tiles_19
+  - first:
+      213: -1175874973648903951
+    second: RA_Sanctuary_Tiles_20
+  - first:
+      213: -3127926851280100979
+    second: RA_Sanctuary_Tiles_21
+  - first:
+      213: 8605142720638676485
+    second: RA_Sanctuary_Tiles_22
+  - first:
+      213: -3270558304824953618
+    second: RA_Sanctuary_Tiles_23
+  - first:
+      213: -3923243539840537998
+    second: RA_Sanctuary_Tiles_24
+  - first:
+      213: 7638139870225490110
+    second: RA_Sanctuary_Tiles_25
+  - first:
+      213: -4979139790692560481
+    second: RA_Sanctuary_Tiles_26
+  - first:
+      213: -7559291887180661202
+    second: RA_Sanctuary_Tiles_27
+  - first:
+      213: 8559999823404746762
+    second: RA_Sanctuary_Tiles_28
+  - first:
+      213: 78380522108487470
+    second: RA_Sanctuary_Tiles_29
+  - first:
+      213: -6115045682473427378
+    second: RA_Sanctuary_Tiles_30
+  - first:
+      213: 4479894476960387244
+    second: RA_Sanctuary_Tiles_31
+  - first:
+      213: 3651721232837182510
+    second: RA_Sanctuary_Tiles_32
+  - first:
+      213: 9030446074899379743
+    second: RA_Sanctuary_Tiles_33
+  - first:
+      213: -6172429303099631346
+    second: RA_Sanctuary_Tiles_34
+  - first:
+      213: -4011010277317144337
+    second: RA_Sanctuary_Tiles_35
+  - first:
+      213: 2976419664376103832
+    second: RA_Sanctuary_Tiles_36
+  - first:
+      213: -8662273735946903692
+    second: RA_Sanctuary_Tiles_37
+  - first:
+      213: -7869200136471906957
+    second: RA_Sanctuary_Tiles_38
+  - first:
+      213: -6519725187298531996
+    second: RA_Sanctuary_Tiles_39
+  - first:
+      213: -7979257761565308287
+    second: RA_Sanctuary_Tiles_40
+  - first:
+      213: 6953510066322002038
+    second: RA_Sanctuary_Tiles_41
+  - first:
+      213: 6932650589651445015
+    second: RA_Sanctuary_Tiles_42
+  - first:
+      213: 1364306659673166843
+    second: RA_Sanctuary_Tiles_43
+  - first:
+      213: -3385660363876241452
+    second: RA_Sanctuary_Tiles_44
+  - first:
+      213: -8895141884986116250
+    second: RA_Sanctuary_Tiles_45
+  - first:
+      213: 3728668362183763372
+    second: RA_Sanctuary_Tiles_46
+  - first:
+      213: 7229988767007562408
+    second: RA_Sanctuary_Tiles_47
+  - first:
+      213: 2252868720785955051
+    second: RA_Sanctuary_Tiles_48
+  - first:
+      213: 1874584371667511824
+    second: RA_Sanctuary_Tiles_49
+  - first:
+      213: 8453166727698648581
+    second: RA_Sanctuary_Tiles_50
+  - first:
+      213: 5193468757343546348
+    second: RA_Sanctuary_Tiles_51
+  - first:
+      213: -1757805675271096891
+    second: RA_Sanctuary_Tiles_52
+  - first:
+      213: -1550553890253066751
+    second: RA_Sanctuary_Tiles_53
+  - first:
+      213: -5048926796320608145
+    second: RA_Sanctuary_Tiles_54
+  - first:
+      213: 5878837486151498055
+    second: RA_Sanctuary_Tiles_55
+  - first:
+      213: -78651337898922312
+    second: RA_Sanctuary_Tiles_56
+  - first:
+      213: 8190674167366262461
+    second: RA_Sanctuary_Tiles_57
+  - first:
+      213: -3030705710372485875
+    second: RA_Sanctuary_Tiles_58
+  - first:
+      213: 5687107315120288804
+    second: RA_Sanctuary_Tiles_59
+  - first:
+      213: 3686684047770403205
+    second: RA_Sanctuary_Tiles_60
+  - first:
+      213: -2761130667702963578
+    second: RA_Sanctuary_Tiles_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f75f771fd41b890800000000000000
+      internalID: -7444083009571684535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 166
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce89fd7c0ffaffcd0800000000000000
+      internalID: -2522103817623856916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 199
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18709ac8ab0addc0800000000000000
+      internalID: -3613562931430524902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 166
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5074533a0db188c0800000000000000
+      internalID: -3998707142619795366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 166
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9186bffc5b45e3d90800000000000000
+      internalID: -7116157221343631335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 199
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1eb01769c0326d0800000000000000
+      internalID: -3016553485126868533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac1e8cfe7897baf0800000000000000
+      internalID: -380667972319044439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 146
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22016502d8083d5f0800000000000000
+      internalID: -733100970710003678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 135
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92b2b09bd4ced080800000000000000
+      internalID: -9160668144720498019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 143
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9576280b8d6b52f0800000000000000
+      internalID: -983071649745701475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 95
+        width: 146
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f4728f45c813c00800000000000000
+      internalID: 878637698882424679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 135
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6449503df0b402ec0800000000000000
+      internalID: -3593789971304704954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 106
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b97fb3291a8b2c20800000000000000
+      internalID: 3182789402245953970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 97
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9ae747fd0f5c470800000000000000
+      internalID: 8414396321334471101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 97
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a94cead342624ad0800000000000000
+      internalID: -2719503181403108951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 106
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e93388d3a5ea09b0800000000000000
+      internalID: -5113021935050868256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 97
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c97d51feff52810800000000000000
+      internalID: 1740078233377283177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 97
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3b633925c8d8c10800000000000000
+      internalID: 2057454891063227315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 64
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16b6c5221d310780800000000000000
+      internalID: -8718620255460084193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 81
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3c4e3623c243860800000000000000
+      internalID: 7508675073669383101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 81
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0a26701f37eafe0800000000000000
+      internalID: -1175874973648903951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 64
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d812b0ae91f5794d0800000000000000
+      internalID: -3127926851280100979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 81
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ee43166bb9b6770800000000000000
+      internalID: 8605142720638676485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 81
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee474b7cc84ac92d0800000000000000
+      internalID: -3270558304824953618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a657869c6dd89c0800000000000000
+      internalID: -3923243539840537998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0e98d4ebf100a60800000000000000
+      internalID: 7638139870225490110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 64
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91d1c0bdba86eab0800000000000000
+      internalID: -4979139790692560481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eba175410081790800000000000000
+      internalID: -7559291887180661202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 32
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08427f8c7a3bc670800000000000000
+      internalID: 8559999823404746762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 64
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2706996ba6761100800000000000000
+      internalID: 78380522108487470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e92e6c95ef22ba0800000000000000
+      internalID: -6115045682473427378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 64
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca055729a48cb2e30800000000000000
+      internalID: 4479894476960387244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 50
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2403061d158da230800000000000000
+      internalID: 3651721232837182510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 50
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16b2b91cd6925d70800000000000000
+      internalID: 9030446074899379743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 50
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09d8837040275aa0800000000000000
+      internalID: -6172429303099631346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 32
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0121e67670658c0800000000000000
+      internalID: -4011010277317144337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89300ad3aed5e4920800000000000000
+      internalID: 2976419664376103832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 64
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f50bd8eeb69c780800000000000000
+      internalID: -8662273735946903692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375f22f2b2cfac290800000000000000
+      internalID: -7869200136471906957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 32
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46567e13c784585a0800000000000000
+      internalID: -6519725187298531996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 64
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a0f9e775bf34190800000000000000
+      internalID: -7979257761565308287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670d9356094df7060800000000000000
+      internalID: 6953510066322002038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 64
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715a3140bf8b53060800000000000000
+      internalID: 6932650589651445015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 50
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3d486bdadfee210800000000000000
+      internalID: 1364306659673166843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 50
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df690946d7b301d0800000000000000
+      internalID: -3385660363876241452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 50
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66734b6859b1e8480800000000000000
+      internalID: -8895141884986116250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 34
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5633dbe14eeb330800000000000000
+      internalID: 3728668362183763372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 32
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aadc8b3a74165460800000000000000
+      internalID: 7229988767007562408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 34
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be819045a2cc34f10800000000000000
+      internalID: 2252868720785955051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 32
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01aadb6dd8cd30a10800000000000000
+      internalID: 1874584371667511824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e01af1a5eaf4570800000000000000
+      internalID: 8453166727698648581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb2d819158e21840800000000000000
+      internalID: 5193468757343546348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5fc453d050b97e0800000000000000
+      internalID: -1757805675271096891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ead56b3735b7ae0800000000000000
+      internalID: -1550553890253066751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 34
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60fb5044db9ee9b0800000000000000
+      internalID: -5048926796320608145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 32
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7497f46db83d59150800000000000000
+      internalID: 5878837486151498055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 34
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8beec6f560398eef0800000000000000
+      internalID: -78651337898922312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 32
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe95d852ce1ba170800000000000000
+      internalID: 8190674167366262461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05008ab635c0f5d0800000000000000
+      internalID: -3030705710372485875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 33
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4243545b8f9acee40800000000000000
+      internalID: 5687107315120288804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 33
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581447acb9bb92330800000000000000
+      internalID: 3686684047770403205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Sanctuary_Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 33
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682b02d694e7ea9d0800000000000000
+      internalID: -2761130667702963578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
