@@ -11,5 +11,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene 2 - Wilderness.unity
     guid: 890cc8ffd1a2d634fbaf1c3230e9756b
+  - enabled: 1
+    path: Assets/Scenes/Scene 3 - Town.unity
+    guid: bbf4186773102614a9746c92c0483269
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

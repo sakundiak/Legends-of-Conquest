@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7616283159533253417}
   - component: {fileID: 378223386798335146}
   m_Layer: 0
-  m_Name: Area Transition
+  m_Name: Area Exit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
