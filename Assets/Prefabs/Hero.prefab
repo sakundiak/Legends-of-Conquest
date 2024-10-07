@@ -170,6 +170,7 @@ MonoBehaviour:
   playerRigidBody: {fileID: 4315334029788594391}
   playerAnimator: {fileID: 1815618586092115573}
   transitionName: 
+  tilemap: {fileID: 0}
 --- !u!95 &1815618586092115573
 Animator:
   serializedVersion: 7
